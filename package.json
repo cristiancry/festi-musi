@@ -1,0 +1,28 @@
+{
+  "name": "festi-musi",
+  "version": "1.0.0",
+  "description": "proyecto con gulp, sass y html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiancry/festi-musi.git"
+  },
+  "keywords": [
+    "sass",
+    "gulp"
+  ],
+  "author": "cristopher zuñiga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiancry/festi-musi/issues"
+  },
+  "homepage": "https://github.com/cristiancry/festi-musi#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.43.3"
+  }
+}
